@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMT.WebApi", "DMT.WebApi\DMT.WebApi.csproj", "{C28EA0F4-8ED0-4B01-AF49-AA1D73597A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{2FE3E204-769C-4FB9-AB22-D731A08D160D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMT.DataAccess", "DMT.DataAccess\DMT.DataAccess.csproj", "{F3950655-ECA6-48C4-A710-3CF72361BA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28EA0F4-8ED0-4B01-AF49-AA1D73597A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28EA0F4-8ED0-4B01-AF49-AA1D73597A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28EA0F4-8ED0-4B01-AF49-AA1D73597A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28EA0F4-8ED0-4B01-AF49-AA1D73597A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE3E204-769C-4FB9-AB22-D731A08D160D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE3E204-769C-4FB9-AB22-D731A08D160D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE3E204-769C-4FB9-AB22-D731A08D160D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE3E204-769C-4FB9-AB22-D731A08D160D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3950655-ECA6-48C4-A710-3CF72361BA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3950655-ECA6-48C4-A710-3CF72361BA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3950655-ECA6-48C4-A710-3CF72361BA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3950655-ECA6-48C4-A710-3CF72361BA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
