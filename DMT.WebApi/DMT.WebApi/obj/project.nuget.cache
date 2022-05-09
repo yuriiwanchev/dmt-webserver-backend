@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EIY4RgRGZq3i7U+yhz00OLBwul8d1lqC/mHlXuTr+mztwJQpVGheOV3yv+n2VykKun9ZAuqXR39n7WT1am9iwQ==",
+  "dgSpecHash": "fytT7pJXmDwqYsjsfOvM4sJTCvAAbKi6cCe9ldVgtnBdRwa9nBtCcWhJ8NVhQKGPClB9TG/NLV/AxF+TeH2CuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yurai\\Desktop\\dmt-backend\\DMT.WebApi\\DMT.WebApi\\DMT.WebApi.csproj",
   "expectedPackageFiles": [
@@ -72,7 +72,10 @@
     "C:\\Users\\yurai\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
     "C:\\Users\\yurai\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\yurai\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
-    "C:\\Users\\yurai\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\yurai\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.3\\microsoft.netcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x86.6.0.3.nupkg.sha512"
   ],
   "logs": []
 }
