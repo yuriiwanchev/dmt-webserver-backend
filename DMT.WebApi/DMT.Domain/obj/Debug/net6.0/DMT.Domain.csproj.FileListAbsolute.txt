@@ -1,0 +1,12 @@
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\bin\Debug\net6.0\DMT.Domain.deps.json
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\bin\Debug\net6.0\DMT.Domain.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\bin\Debug\net6.0\DMT.Domain.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.csproj.AssemblyReference.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.AssemblyInfoInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.AssemblyInfo.cs
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\refint\DMT.Domain.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\DMT.Domain.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.Domain\obj\Debug\net6.0\ref\DMT.Domain.dll

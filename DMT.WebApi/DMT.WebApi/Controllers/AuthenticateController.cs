@@ -5,27 +5,32 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using DMT.WebApi.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace DMT.WebApi.Controllers;
 
-[Route("api/[controller]")]
+[Route("api/authenticate")]
 [ApiController]
 public class AuthenticateController : ControllerBase
 {
     private readonly UserManager<IdentityUser> _userManager;
     private readonly RoleManager<IdentityRole> _roleManager;
     private readonly IConfiguration _configuration;
+    private readonly ILogger<AuthenticateController> _logger;
 
     public AuthenticateController(
         UserManager<IdentityUser> userManager,
         RoleManager<IdentityRole> roleManager,
-        IConfiguration configuration)
+        IConfiguration configuration,
+        ILogger<AuthenticateController> logger)
     {
         _userManager = userManager;
         _roleManager = roleManager;
         _configuration = configuration;
+        _logger = logger;
     }
 
+    // [EnableCors]
     [HttpPost]
     [Route("login")]
     public async Task<IActionResult> Login([FromBody] LoginModel model)
@@ -57,6 +62,7 @@ public class AuthenticateController : ControllerBase
         return Unauthorized();
     }
 
+    // [EnableCors]
     [HttpPost]
     [Route("register")]
     public async Task<IActionResult> Register([FromBody] RegisterModel model)

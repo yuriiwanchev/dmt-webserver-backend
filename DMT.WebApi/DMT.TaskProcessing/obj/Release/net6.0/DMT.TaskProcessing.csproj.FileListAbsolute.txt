@@ -1,0 +1,12 @@
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\bin\Release\net6.0\DMT.TaskProcessing.deps.json
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\bin\Release\net6.0\DMT.TaskProcessing.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\bin\Release\net6.0\DMT.TaskProcessing.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.csproj.AssemblyReference.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.AssemblyInfoInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.AssemblyInfo.cs
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.csproj.CoreCompileInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\refint\DMT.TaskProcessing.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\DMT.TaskProcessing.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.TaskProcessing\obj\Release\net6.0\ref\DMT.TaskProcessing.dll

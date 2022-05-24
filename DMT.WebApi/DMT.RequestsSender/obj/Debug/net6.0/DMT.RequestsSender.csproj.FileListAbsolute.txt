@@ -1,0 +1,17 @@
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.RequestsSender.deps.json
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.RequestsSender.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.RequestsSender.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.csproj.AssemblyReference.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.AssemblyInfoInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.AssemblyInfo.cs
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.csproj.CoreCompileInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\refint\DMT.RequestsSender.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\ref\DMT.RequestsSender.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.TaskProcessing.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.TaskProcessing.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\obj\Debug\net6.0\DMT.RequestsSender.csproj.CopyComplete
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.Domain.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.RequestsSender\bin\Debug\net6.0\DMT.Domain.pdb

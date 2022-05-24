@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNi30c3DycXX8pbTdAkAtOSxNVKovjsekH9DzJfSc0H/UFA0SYVkl/h22cXqslmjQ4G1EZc2VNU+PuL6d4Y0Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yurai\\Desktop\\dmt-backend\\DMT.WebApi\\DMT.RequestsSender\\DMT.RequestsSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yurai\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\yurai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
