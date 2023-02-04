@@ -1,0 +1,14 @@
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\bin\Release\net6.0\DMT.DataAccess.deps.json
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\bin\Release\net6.0\DMT.DataAccess.runtimeconfig.json
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\bin\Release\net6.0\DMT.DataAccess.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\bin\Release\net6.0\DMT.DataAccess.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.AssemblyInfo.cs
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\refint\DMT.DataAccess.dll
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.pdb
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\DMT.DataAccess.genruntimeconfig.cache
+C:\Users\yurai\Desktop\dmt-backend\DMT.WebApi\DMT.DataAccess\obj\Release\net6.0\ref\DMT.DataAccess.dll

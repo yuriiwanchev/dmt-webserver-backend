@@ -1,0 +1,34 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:14-alpine
+    container_name: postgresdb
+    environment:
+      POSTGRES_DB: "usersdb"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "1111"
+    ports:
+      - "7000:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    networks:
+      - server-net
+  # dmt_webserver_backend:
+  #   image: yuntys/dmt.webapi:latest
+  #   container_name: webserverbackend
+  #   environment:
+  #     POSTGRES_HOST: postgresdb
+  #   ports:
+  #     - "6000:80"
+  #   networks:
+  #     - server-net
+
+
+
+networks:
+  server-net: {}
+
+
+volumes:
+  db-data:
